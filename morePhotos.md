@@ -1,21 +1,21 @@
 # Animals 
 
-![Meerkat](../Desktop/CSE%20110/Github-Pages/photos/meerkat.png)
+![Meerkat](photos/meerkat.png)
 
-![Bunny](../Desktop/CSE%20110/Github-Pages/photos/bunny.png)
+![Bunny](photos/bunny.png)
 
-![Cat](../Desktop/CSE%20110/Github-Pages/photos/cat.png)
+![Cat](photos/cat.png)
 
-![Corgi](../Desktop/CSE%20110/Github-Pages/photos/corgi.png)
+![Corgi](photos/corgi.png)
 
 # Food
 
-![Breakfast](../Desktop/CSE%20110/Github-Pages/photos/breakfast.png)
+![Breakfast](photos/breakfast.png)
 
-![Egg_Waffles](../Desktop/CSE%20110/Github-Pages/photos/egg_waffles.png)
+![Egg_Waffles](photos/egg_waffles.png)
 
-![Street_Food](../Desktop/CSE%20110/Github-Pages/photos/street_food.png)
+![Street_Food](photos/street_food.png)
 
-![Matcha](../Desktop/CSE%20110/Github-Pages/photos/matcha.png)
+![Matcha](photos/matcha.png)
 
-![More_Matcha](../Desktop/CSE%20110/Github-Pages/photos/more_matcha.png)
+![More_Matcha](photos/more_matcha.png)

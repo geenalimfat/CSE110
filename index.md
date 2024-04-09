@@ -9,7 +9,7 @@
 
 ## About Me
 
-![Me with corgi](../Desktop/CSE%20110/Github-Pages/photos/me_with_corgi.png)
+![Me with corgi](photos/me_with_corgi.png)
 
 
 I'm a *Cognitive Science Major specializing in Machine Learning* and minor in *Computer Science*. I'm from **Los Angeles, California.** I like trying different food places so I have a couple google map collections of different food. I also like going to places/events with animals. If I had to rank my favorites based on what I've gone to recently:
