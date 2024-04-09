@@ -1,0 +1,13 @@
+# Markdown Requirements:
+- [X] Headings
+- [X] Styling text
+  - [X] Bold
+  - [X] Italics
+  - [X] All Bold and Italic 
+- [X] Quoting text
+- [X] Quoting code
+- [X] External Links
+- [X] Section links
+- [X] Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
+- [X] Ordered and Unordered Lists
+- [X] Task lists (this one right here haha)
