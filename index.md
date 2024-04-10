@@ -25,7 +25,7 @@ My favorite one was the Corgi Beach Day because they're my favorite dog and the 
 
 and I had to tell her I did not have a dog but it was okay because the other people around me also did not have a dog. 
 
-If you want to see more photos (or don't), you can go [here](morePhotos.md)
+If you want to see more photos ~~(or don't)~~, you can go [here](morePhotos.md)
   
 ## Programming
 I started programming in highschool with Java and then have taken C and C++ through classes here. I self-taught myself Python and then programmed in it for my data science classes. I also tried to learn a bit of CSS and HTML on the side but didn't get too far with it. I'm  learning how to code in Swift but I don't think it'll be that relevant for this class. 
@@ -36,7 +36,7 @@ Just for markdown purposes I'll put Java, Python, and C codeblocks here:
 - `print('Python')`
 - `printf(C);`
 
-You can add me on my [Linkedin](www.linkedin.com/in/geena-limfat-7808312a7) :)  
+You can add me on my [Linkedin](https://www.linkedin.com/in/geena-limfat-7808312a7/) :)  
 
 ## Markdown Requirements
 
