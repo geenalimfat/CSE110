@@ -4,6 +4,7 @@
   - [X] Bold
   - [X] Italics
   - [X] All Bold and Italic 
+  - [X] Strikethrough
 - [X] Quoting text
 - [X] Quoting code
 - [X] External Links
