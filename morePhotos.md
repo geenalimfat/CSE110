@@ -10,12 +10,8 @@
 
 # Food
 
-![Breakfast](photos/breakfast.png)
-
-![Egg_Waffles](photos/egg_waffles.png)
+![Egg_Waffles](photos/egg_waffle.png)
 
 ![Street_Food](photos/street_food.png)
 
 ![Matcha](photos/matcha.png)
-
-![More_Matcha](photos/more_matcha.png)
